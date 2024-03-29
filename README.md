@@ -17,7 +17,7 @@ The Password Generator is a web application that allows users to generate secure
 
 ## Demo
 
-Check out the live demo [here](https://your-username.github.io/passwordGenerator).
+Check out the live demo [here](https://github.com/AshishAgnihotri96/passwordGenerator.git).
 
 ## Getting Started
 
