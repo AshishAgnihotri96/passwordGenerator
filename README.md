@@ -17,11 +17,11 @@ The Password Generator is a web application that allows users to generate secure
 
 ## Demo
 
-Check out the live demo [here](https://github.com/AshishAgnihotri96/passwordGenerator.git).
+Check out the live demo [here](https://fervent-volhard-f2991a.netlify.app/).
 
 ## Getting Started
 
 To run the Password Generator locally on your machine:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/passwordGenerator.git
+   git clone https://github.com/AshishAgnihotri96/passwordGenerator.git
